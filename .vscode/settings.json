@@ -1,0 +1,15 @@
+{
+    "makefile.extensionOutputFolder": "./.vscode",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "/Users/shahida/Desktop/so-long",
+            "binaryPath": "/Users/shahida/Desktop/so-long/so_long",
+            "binaryArgs": []
+        },
+        {
+            "cwd": "/Users/shahida/Desktop/so-long",
+            "binaryPath": "/Users/shahida/Desktop/so-long/game.out",
+            "binaryArgs": []
+        }
+    ]
+}
